@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "915208135334",
+    "firebase_url": "https://chatapp-a89ab.firebaseio.com",
+    "project_id": "chatapp-a89ab",
+    "storage_bucket": "chatapp-a89ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915208135334:android:00e6bb8a99b195ca",
+        "android_client_info": {
+          "package_name": "com.example.alon.mikomeorerfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915208135334-fpmndguhh2o5f08385i320hn48vs4dpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_gKPVNxs8axLveIoWj-v71EKplMWu45c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
